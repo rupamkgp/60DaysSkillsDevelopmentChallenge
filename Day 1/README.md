@@ -45,3 +45,6 @@
 ---
 
 > Consistency beats intensity.
+
+### Hand-written Notes
+![Day 1 Notes](notes.jpg)
