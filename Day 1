@@ -1,59 +1,47 @@
-<div align="center">
-
 # 🚀 60 Days Skills Development in Summer Vacation
 
 ## 📅 Day 1 — 13 May 2026
 
-</div>
+---
+
+## 🌐 Web Development
+### JavaScript
+- DOM Events
+- Mouse / Pointer Events
+- Event Listeners
 
 ---
 
-# 🌐 Web Development
-
-## JavaScript
-- ✅ DOM Events  
-- ✅ Mouse / Pointer Events  
-- ✅ Event Listeners  
-
----
-
-# 🤖 Machine Learning
-
-## Descriptive Statistics
-- 📊 Mean, Median, Mode  
-- 📊 Weighted Mean & Trimmed Mean  
-- 📊 Sample vs Population  
-- 📊 Measure of Dispersion  
-- 📊 Variance & Standard Deviation  
-- 📊 Coefficient of Variation  
-- 📊 Quantiles & Percentiles  
+## 🤖 Machine Learning
+### Descriptive Statistics
+- Mean, Median, Mode
+- Weighted Mean & Trimmed Mean
+- Sample & Population
+- Measure of Dispersion
+- Variance & Standard Deviation
+- Coefficient of Variation
+- Quantiles & Percentiles
 
 ---
 
-# 🐍 Python
-
-## OOP Concepts
-- 🧩 Classes  
-- 🧩 Objects  
-- 🧩 Aggregation  
-
----
-
-# 💻 DSA
-
-## Graph
-- 🔹 DFS & BFS  
-- 🔹 Cycle Detection using DFS & BFS  
-- 🔹 Number of Islands  
-- 🔹 Rotten Oranges  
-
-## Two Pointer
-- 🔸 Basic Concepts & Problems  
+## 🐍 Python
+### OOP
+- Classes
+- Objects
+- Aggregation
 
 ---
 
-<div align="center">
+## 💻 DSA
+### Graph
+- DFS & BFS
+- Cycle Detection using DFS & BFS
+- Number of Islands
+- Rotten Oranges
 
-✨ *Consistency beats intensity.* ✨
+### Two Pointer
+- Basic Concepts & Problems
 
-</div>
+---
+
+> Consistency beats intensity.
